@@ -8,7 +8,7 @@ NOTE: This program was constructed for a specific use in the context of research
 
 This work is the intellectual property of Christopher Landschoot, Ning Xiang, and Rensselaer Polytechnic Institute.
 
-
+---
 
 ABSTRACT - http://dx.doi.org/10.1121/1.5138126
 
