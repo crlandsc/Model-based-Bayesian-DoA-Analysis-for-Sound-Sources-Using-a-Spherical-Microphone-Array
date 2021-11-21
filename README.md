@@ -2,7 +2,7 @@ MODEL-BASED BAYESIAN DIRECTION OF ARRIVAL ANALYSIS FOR SOUND SOURCES USING A SPH
 
 This algorithm estimates the directions of arrival (DoA) and relative levels of an arbitrary number of sound sources from sound data recorded on Rensselaer Polytechnic Institute’s (RPI) 16-channel spherical microphone array. This program is built upon a framework of Bayesian probability to estimate DoAs accurately. Nested and slice sampling methods were leveraged to execute this framework. Spherical harmonics and beamforming were utilized to spatially filter the incoming sound data as well as construct models. 
 
-NOTE: Functions and other data files not included. Please contact me if you would like access to these files and/or the associated research papers/Thesis. crlandschoot@gmail.com
+NOTE: Functions and other data files not included. Please contact me if you would like access to these files and/or the associated research papers/thesis. crlandschoot@gmail.com
 
 NOTE: This program was constructed for a specific use in the context of research and will take several changes to function within another ecosystem. For example, the main algorithm only works with RPI's 16-channel spherical microphone array. Its sampling constants are hardcoded and would need to be changed to use another sound source. The purpose of this repo is to provide the framework of the algorithm as a demonstration.
 
