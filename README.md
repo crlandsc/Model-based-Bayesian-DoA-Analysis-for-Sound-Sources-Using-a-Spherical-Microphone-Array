@@ -10,6 +10,10 @@ This work is the intellectual property of Christopher Landschoot, Ning Xiang, an
 
 ---
 
+Patent Pending: https://patents.google.com/patent/US20220260665A1/en
+
+---
+
 ABSTRACT - http://dx.doi.org/10.1121/1.5138126
 
 In many room acoustics and noise control applications, it is often challenging to determine the directions of arrival (DoAs) of incoming sound sources. This work seeks to solve this problem reliably by beamforming, or spatially filtering, incoming sound data with a spherical microphone array via a probabilistic method. When estimating the DoA, the signal under consideration may contain one or multiple concurrent sound sources originating from different directions. This leads to a two-tiered challenge of first identifying the correct number of sources, followed by determining the directional information of each source. To this end, a probabilistic method of model-based Bayesian analysis is leveraged. This entails generating analytic models of the experimental data, individually defined by a specific number of sound sources and their locations in physical space, and evaluating each model to fit the measured data. Through this process, the number of sources is first estimated, and then the DoA information of those sources is extracted from the model that is the most concise to fit the experimental data. This paper will present the analytic models, the Bayesian formulation, and preliminary results to demonstrate the potential usefulness of this model-based Bayesian analysis for complex noise environments with potentially multiple concurrent sources.
